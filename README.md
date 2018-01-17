@@ -1,2 +1,2 @@
 # LearnPython
-A project help myself to learn python.
+A project help me to learn python.
